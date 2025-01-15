@@ -6,8 +6,8 @@ Desafio do bootcampo DIO - CAIXA.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) - Roteiro e conteúdo
-- [ChatGPT](https://chat.openai.com/) - Geração de imagem (Não está disponível a versão beta do Midjourney)
+- [ChatGPT](https://chat.openai.com/) 
+- [ChatGPT](https://chat.openai.com/) 
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -15,5 +15,5 @@ Desafio do bootcampo DIO - CAIXA.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Chatgpt Para gerar capas
+- Chatgpt Para gerar capas (Não está disponível a versão beta do Midjourney)
 - Capcut para tratar aúdio e adicionar sons de fundo
